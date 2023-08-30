@@ -1,0 +1,24 @@
+{
+  "name": "musaib-tasksy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musaibdeveloper/Musaib-Tasksy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musaibdeveloper/Musaib-Tasksy/issues"
+  },
+  "homepage": "https://github.com/musaibdeveloper/Musaib-Tasksy#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
