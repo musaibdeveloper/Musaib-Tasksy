@@ -23,23 +23,16 @@ export default async function Register() {
     Confirmpassword,
   };
 
+  dataBase.task=[];
+
   let store = await fs.readFile("dataBase.json", "utf-8"); 
   let stringTobj = JSON.parse(store); 
 
- if (phonenumber.length != 10) {
-
-     console.log("Phone number is invalid.");
-
-     
- } else {
-    console.log("Valid phone number.");
-    login()
- }
-
-
+ 
 if(password === Confirmpassword){
-    console.log("Please login");
+    console.log("Done");
     login()
+   
        
 } else {
     console.log("Password doesn't match");

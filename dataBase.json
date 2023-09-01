@@ -3,48 +3,25 @@
         "firstName": "musaib",
         "lastName": "syed",
         "phoneNumber": "9059790040",
-        "email": "syedmusaib428@gmail.com",
+        "Youremail": "syedmusaib428@gmail.com",
         "password": "musaib123",
         "confirmpassword": "musaib123"
     },
     {
         "firstName": "Hanzala",
         "lastName": "shaik",
-        "phonenumber": "12345678",
+        "phonenumber": "1234678",
         "Youremail": "hanazalashaik@gmail.com",
         "password": "hanzala",
         "Confirmpassword": "hanzala"
     },
     {
-        "firstName": "Sakina",
-        "lastName": "Banu",
-        "phonenumber": "12345678",
-        "Youremail": "sakinabanu123@gmail.com",
-        "password": "sakina",
-        "Confirmpassword": "sakina"
-    },
-    {
-        "firstName": "Suhail",
-        "lastName": "shuail",
-        "phonenumber": "12345678",
-        "Youremail": "suhail@code.in",
-        "password": "12345",
-        "Confirmpassword": "12345"
-    },
-    {
-        "firstName": "musaib",
-        "lastName": "syed",
-        "phonenumber": "9059790040",
-        "Youremail": "syedmusaib428@gmail.com",
-        "password": "musaib",
-        "Confirmpassword": "musaib"
-    },
-    {
-        "firstName": "musaib",
-        "lastName": "last",
-        "phonenumber": 98696489618444500,
-        "Youremail": "syed@gmail.com",
-        "password": "sfdfd",
-        "Confirmpassword": "dcdds"
+        "firstName": "wasil",
+        "lastName": "aqueeb",
+        "phonenumber": 9876543210,
+        "Youremail": "aqueeb@gmail.com",
+        "password": "aqueeb",
+        "Confirmpassword": "aqueeb",
+        "task": []
     }
 ]
