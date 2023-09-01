@@ -37,7 +37,7 @@ export default async function main() {
         break;
     }
   } catch (error) {
-    console.log("Sorry Bhai Code has errors.");
+    console.log(error);
   }
 }
 
