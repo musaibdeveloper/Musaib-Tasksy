@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/musaibdeveloper/Musaib-Tasksy#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "config": "^3.3.9",
+    "nodemailer": "^6.9.4",
+    "readline-sync": "^1.4.10",
+    "twilio": "^4.16.0"
   }
 }

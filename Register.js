@@ -2,7 +2,15 @@ import readline from "readline-sync";
 import fs from "fs/promises";
 import login from "./Login.js"
 
+
 export default async function Register() {
+
+  console.clear()
+
+  console.log("-----------");
+    console.log("-----Register------------------");
+    console.log("-----------");
+
   let firstName = readline.question("Enter your Firstname: ");
   let lastName = readline.question("Enter your last name: ");
   let phonenumber = readline.questionInt("Enter your phone number: ");

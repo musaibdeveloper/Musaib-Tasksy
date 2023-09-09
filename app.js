@@ -4,9 +4,11 @@ import Login from "./Login.js";
 
 export default async function main() {
   try {
+   console.clear()
+
     console.log("-----Welcome to the Menu------");
-    console.log("-----Tasky Options :) ---------");
-    console.log("-----Please Select Any one below -");
+    console.log("-----Tasky Options :) ------------------");
+    console.log("-----Please Select Any one below ------");
 
     let options = ["For Exit", "For Register", "For login"];
 
@@ -30,6 +32,10 @@ export default async function main() {
 
       case "2":
         await Login();
+        break;
+
+        case "3":
+        await getAlltask();
         break;
 
       default:
